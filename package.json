@@ -1,0 +1,29 @@
+{
+  "name": "tech_spy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagpalkaran95/tech_spy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagpalkaran95/tech_spy/issues"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "font-awesome": "4.7.0",
+    "jquery": "3.5.0",
+    "startbootstrap-clean-blog": "5.0.8"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "gulp": "4.0.2"
+  },
+  "homepage": "https://github.com/nagpalkaran95/tech_spy#readme"
+}

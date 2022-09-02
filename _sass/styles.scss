@@ -1,0 +1,17 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+.verticalhorizontal {
+    display: table-cell;
+    height: 300px;
+    text-align: center;
+    width: 300px;
+    vertical-align: middle;
+}
+
+pre {
+    margin: 5px 5px 5px 5px;
+    padding: 10px 10px 10px 10px;
+    display: block;
+    background-color: #eeeeee;
+}
