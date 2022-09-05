@@ -9,10 +9,6 @@ background: '/img/jenkins/nodejs/banner.jpg'
 {: style="text-align: justify; font-size:25px"}
 > If you are here, you already know what Jenkins is and what it does.
 
-{: style="text-align: justify;"}
-Recently I started exploring Jenkins while I was working on something. I encountered an issue while using NodeJS with Jenkins and found it to be a head scratcher. After referring to multiple docs and videos I was able to sort it out and thought of putting it in one place.
-
-
 ### Problem Statement
 There are use cases when one wants to trigger a Jenkins build remotely either from a script or by just using a `curl` command rather than opening the dashboard and triggering it from there. In this doc we will understand what all we need and how do we trigger a build remotely.
 
